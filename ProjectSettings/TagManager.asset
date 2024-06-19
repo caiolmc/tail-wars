@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Player1
+  - Player2
+  - Weapon1
+  - Drop
+  - TailHand
+  - hammer
+  - fish
+  - knife
+  - bottle
+  - guitar
+  - broken bottle
+  - Target
+  - Cursor
+  - Clone
+  - Alvo
+  - Box
+  - Congelado
+  - Descongelado
+  - RefPoint
+  - BoostVFX
+  - Fire
+  - 100hp
+  - 75hp
+  - 50hp
+  - 25hp
+  - Bolha
+  - bg100
+  - bg75
+  - bg50
+  - bg25
+  - Fogo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstaculos
+  - Water
+  - UI
+  - Player
+  - TopLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: HUD
+    uniqueID: 2677189861
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
